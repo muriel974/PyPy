@@ -15,3 +15,4 @@ print '__main__ : x=%d, y=%d' % (x,y)
 x = 8
 g()
 print 'g()x=%d, y=%d' % (x,y)
+print 'test pour github'
