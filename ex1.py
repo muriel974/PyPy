@@ -16,5 +16,5 @@ x = 8
 g()
 print 'g()x=%d, y=%d' % (x,y)
 
-print 'test3 pour github'
+print 'test34 pour github'
 
